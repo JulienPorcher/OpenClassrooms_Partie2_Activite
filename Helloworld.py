@@ -1,1 +1,2 @@
-print("HelloWorld")
+X="HelloWorld"
+print(X)
